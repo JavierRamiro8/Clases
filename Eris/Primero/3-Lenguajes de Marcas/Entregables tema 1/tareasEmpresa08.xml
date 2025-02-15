@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-9"?>
+<tareas>
+	<tarea>Atender clientes</tarea> <!-- Alta prioridad! -->
+	<tarea>Reunirse con proveedores</tarea> <!-- No es urgente -->
+	<tarea>Reunión de Marketing</tarea> <!-- Es a las 11-->
+</tareas>

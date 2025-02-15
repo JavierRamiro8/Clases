@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estructuraEmpresa>
+	<departamento>Recursos Humanos
+		<empleado>Juan Pérez</empleado>
+			<puesto>Responsable</puesto>
+	</departamento>
+
+	<departamento>Marketing
+		<empleado>María López</empleado>
+			<puesto>Publicista</puesto>
+	</departamento>
+
+	<departamento>IT
+		<empleado/>
+			<puesto/>
+	</departamento>
+</estructuraEmpresa>

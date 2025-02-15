@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+ 	<producto>
+ 		<nombre>Gafas</nombre>
+ 		<descripcion>Gafas con marco metálico</descripcion>
+ 		<precio> &lt; 25.99 &#8364;</precio>
+ 	</producto>
+ 	<producto>
+ 		<nombre>Taza</nombre>
+ 		<descripcion>Taza de cerámica blanca</descripcion>
+ 		<precio> &lt;5.50 &#8364;</precio>
+ 	</producto>
+	<producto>
+ 		<nombre>Portátil</nombre>
+ 		<descripcion>Portátil con pantalla de 15 &quot; </descripcion>
+ 		<precio> &gt; 799.99 &#8364;</precio>
+ 	</producto>
+</productos>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<familia>
+	<direccion>
+		<calle>Calle Invisible 123</calle>
+		<ciudad>Atlantis</ciudad>
+		<codigoPostal>123456</codigoPostal>
+		<miembros>
+			<miembro>
+				<nombre>Fulanito Pérez</nombre>
+				<rol>Padre</rol>
+				<edad>40</edad>
+			</miembro>
+
+			<miembro>
+				<nombre>Menganita Martínez</nombre>
+				<rol>Madre</rol>
+				<edad>38</edad>
+			</miembro>
+
+			<miembro>
+				<nombre>Zutanito Pérez</nombre>
+				<rol>Hijo</rol>
+				<edad>5</edad>
+			</miembro>
+
+			<mascotas>
+				<mascota tipo="perro">
+					<nombre>Rex</nombre>
+				</mascota>
+				
+				<mascota tipo="gato">
+					<nombre>Doraemon</nombre>
+				</mascota>
+
+				<mascota tipo="pajaro">
+					<nombre>Hedwig</nombre>
+				</mascota>
+			</mascotas>
+		</miembros>
+	</direccion>
+</familia>
+				

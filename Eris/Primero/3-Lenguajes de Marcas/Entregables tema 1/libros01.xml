@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+	<libro categoria="novela">
+		<titulo>El Quijote</titulo>
+		<autor>Miguel de Cervantes</autor>
+		<ano>1605</ano>
+	</libro>
+	<libro categoria="novela">
+		<titulo>1984</titulo>
+		<autor>George Orwell</autor>
+		<ano>1949</ano>
+	</libro>
+	<libro categoria="teatro">
+		<titulo>Don Juan Tenorio</titulo>
+		<autor>José Zorrilla</autor>
+		<ano>1844</ano>
+	</libro>
+</libros>
+

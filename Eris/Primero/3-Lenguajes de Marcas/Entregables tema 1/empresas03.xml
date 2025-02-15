@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresas>
+	<empresa>
+		<nombre>Nintendo</nombre>
+		<pais>Japón</pais>
+		<ceo>Tatsumi Kimishima</ceo>
+		<productos>
+			<producto tipo="videojuego">
+				<nombre>The Legend of Zelda</nombre>
+			</producto>
+			<producto tipo="consola">
+				<nombre>Switch</nombre>
+			</producto>
+		</productos>
+	</empresa>
+
+	<empresa>
+		<nombre>Apple</nombre>
+		<pais>Estados Unidos</pais>
+		<ceo>Tim Cook</ceo>
+		<productos>
+			<producto tipo="movil">
+				<nombre>iPhone</nombre>
+			</producto>
+			<producto tipo="tablet">
+				<nombre>iPad</nombre>
+			</producto>
+		</productos>
+	</empresa>
+
+	<empresa>
+		<nombre>Microsoft</nombre>
+		<pais>Estados Unidos</pais>
+		<ceo>Satya Nadella</ceo>
+		<productos>
+			<producto tipo="software">
+				<nombre>Office</nombre>
+			</producto>
+			<producto tipo="consola">
+				<nombre>xBox</nombre>
+			</producto>
+		</productos>
+	</empresa>
+</empresas>
